@@ -110,4 +110,9 @@
           background-position:50% 50%;
     background-size:contain;  
       }
+
+      .sec-2-textarea {
+        width: auto;
+        padding: 50px 50px 150px 50px;
+      }
 }
